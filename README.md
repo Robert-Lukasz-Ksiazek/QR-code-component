@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Robert-Lukasz-Ksiazek/QR-code-component)
-- Live Site URL: [Add live site URL here](https://www.robertksiazek.com/portfolio/QR-code-component)
+- Solution URL: https://github.com/Robert-Lukasz-Ksiazek/QR-code-component
+- Live Site URL: https://www.robertksiazek.com/portfolio/QR-code-component
 
 ## My Process
 
@@ -40,6 +40,6 @@ I have learned how to use grid, flexbox, dvh and rem to create dynamic component
 
 ## Author
 
-- Website - [Add your name here](https://www.robertksiazek.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Robert-Lukasz-Ksiazek)
-- Twitter - [@yourusername](https://www.twitter.com/_robertksiazek_)
+- Website - https://www.robertksiazek.com
+- Frontend Mentor - https://www.frontendmentor.io/profile/Robert-Lukasz-Ksiazek
+- Twitter - https://www.twitter.com/_robertksiazek_
