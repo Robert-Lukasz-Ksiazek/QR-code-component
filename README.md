@@ -42,4 +42,4 @@ I have learned how to use grid, flexbox, dvh and rem to create dynamic component
 
 - Website - https://www.robertksiazek.com
 - Frontend Mentor - https://www.frontendmentor.io/profile/Robert-Lukasz-Ksiazek
-- Twitter - https://www.twitter.com/_robertksiazek_
+- Twitter - https://www.twitter.com/_robertksiazek_/
